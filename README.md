@@ -1,28 +1,33 @@
-# The Global Refugee Crisis
+# Global Refugee Crisis Analysis
 
-*A Quarto-based refugee crisis data analysis report for the BAA1030 Data Storytelling assignment.*
+This project analyzes refugee distribution patterns globally using data sourced from UNICEF and the World Bank.
 
-This project is an interactive data report exploring global displacement patterns, hosted refugee populations, and economic inequalities. It was created for the BAA1030 Data Analytics & Storytelling module using:
+## About the Project
 
-- Python (Google Colab)
-- plotnine for visualization
-- Quarto for HTML rendering
-- GitHub Pages for publishing
+- Explores global refugee hosting trends relative to population size and economic strength.
+- Uses four key visualizations:
+  - World Map (Refugees per Population %)
+  - Bar Chart (Total Refugees by UN Region)
+  - Scatterplot (Wealth vs Refugees Hosted, with Linear Regression)
+  - Time-Series Line Chart (Refugee Trends Over Time for Top 5 Host Countries)
+- Highlights critical inequalities in global burden-sharing of refugee populations.
 
-## Visualizations Included
+## Technologies Used
 
-- World map showing refugee distribution by country
-- Bar chart comparing refugees across UN regions
-- Time-series chart showing refugee trends over time
-- Scatterplot comparing GDP and refugee-hosting levels
+- Google Colab (Python)
+- Pandas, Plotly, Plotnine libraries
+- Quarto for rendering
+- GitHub Pages for hosting
 
-## Files
+## Project Outputs
 
-- `report.ipynb`: Main analysis notebook
-- `report.html`: Final rendered HTML report
-- `README.md`: Project description and links
+- 📄 Final Report: [View the HTML Report here](https://khushboopursnani.github.io/refugee-crisis-report/report.html)
 
-## Live Report
+---
 
-Link to the final published report:  
-https://khushboopursnani.github.io/refugee-crisis-report/report.html
+## Author
+
+- **Khushboo Pursnani**  
+- Masters in International Business, University College Dublin
+
+---

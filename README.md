@@ -28,6 +28,6 @@ This project analyzes refugee distribution patterns globally using data sourced 
 ## Author
 
 - **Khushboo Pursnani**  
-- Masters in International Business, University College Dublin
+- Masters in Business Management, Dublin City University
 
 ---

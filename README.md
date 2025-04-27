@@ -21,7 +21,7 @@ This project analyzes refugee distribution patterns globally using data sourced 
 
 ## Project Outputs
 
-- Final Report: [View the HTML Report here](https://khushboopursnani.github.io/refugee-crisis-report/report.html)
+- Final Report: [View the HTML Report here](file:///C:/Users/khushboo/Downloads/index.html.html)
 
 ## Author
 
